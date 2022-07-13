@@ -23,7 +23,6 @@ namespace HotelListing.API.Controllers
         {
             _hotelsRepository = hotelsRepository;
             _mapper = mapper;
-
         }
 
         // GET: api/Hotels
